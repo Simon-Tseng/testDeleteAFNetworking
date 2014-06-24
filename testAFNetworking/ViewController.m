@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "AFHTTPRequestOperation.h"
 
 @interface ViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    AFHTTPRequestOperation *st;
     
     NSLog(@"Second Commit");
     
