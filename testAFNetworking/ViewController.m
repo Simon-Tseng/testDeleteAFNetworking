@@ -23,6 +23,9 @@
     
     NSLog(@"Second Commit");
     
+    NSLog(@"Switch To Branch: StoreDetail");
+    
+    
 }
 
 - (void)didReceiveMemoryWarning
